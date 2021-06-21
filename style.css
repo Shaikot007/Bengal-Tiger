@@ -1,49 +1,49 @@
 body {
-    margin: 50px;
+  margin: 50px;
 }
 
 .headline {
-    color: black;
-    font-style: bold;
-    font-size: 300%;
-    font-family: 'Asar', serif;
-    margin-bottom: 30px;
+  color: black;
+  font-style: bold;
+  font-size: 300%;
+  font-family: 'Asar', serif;
+  margin-bottom: 30px;
 }
 
 .subheadline {
-    margin-top: 10px;
-    font-size: 150%;
-    font-family: 'Asar', serif;
+  margin-top: 10px;
+  font-size: 150%;
+  font-family: 'Asar', serif;
 }
 
 .smaller-image {
-    display: block;
-    height: 20%;
-    width: 40%;
-    margin-top: 30px;
+  display: block;
+  height: 20%;
+  width: 40%;
+  margin-top: 30px;
 }
 
 .font-size {
-    margin-top: 50px;
-    font-size: 150%;
+  margin-top: 50px;
+  font-size: 150%;
 }
 
 .footer {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .about-page {
-    margin-top: 10%;
+  margin-top: 10%;
 }
 
 /* Media queries for phones */
 @media only screen and (min-width: 240px) and (max-width: 480px) {
-    body { margin: 5px; }
-    .smaller-image { height: 30%; width: 100%; }
-} 
+  body { margin: 5px; }
+  .smaller-image { height: 30%; width: 100%; }
+}
 
 /* Media queries for tablets */
 @media only screen and (min-width: 481px) and (max-width: 1024px) {
-    body { margin: 10px; }
-    .smaller-image { height: 30%; width: 100%; }
-}   
+  body { margin: 10px; }
+  .smaller-image { height: 30%; width: 100%; }
+}
